@@ -1,0 +1,12 @@
+table {
+    border: 1px solid gray;
+    text-align: center;
+    margin-bottom: 10px;
+}
+thead {
+    background: #dddddd;
+}
+td {
+    padding: 0 15px;
+    border: 1px solid gray;
+}
